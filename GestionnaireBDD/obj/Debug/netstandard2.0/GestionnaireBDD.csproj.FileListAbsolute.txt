@@ -1,0 +1,25 @@
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\GestionnaireBDD\bin\Debug\netstandard2.0\GestionnaireBDD.deps.json
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\GestionnaireBDD\bin\Debug\netstandard2.0\GestionnaireBDD.dll
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.csprojAssemblyReference.cache
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.AssemblyInfoInputs.cache
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.AssemblyInfo.cs
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\GestionnaireBDD\bin\Debug\netstandard2.0\GestionnaireBDD.pdb
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\GestionnaireBDD\bin\Debug\netstandard2.0\ClassesMetier.dll
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\GestionnaireBDD\bin\Debug\netstandard2.0\ClassesMetier.pdb
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.csproj.CopyComplete
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.dll
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.pdb
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\GestionnaireBDD\bin\Debug\netstandard2.0\Windows.Foundation.UniversalApiContract.winmd
+C:\Users\AFCM_MSI\Desktop\ReservationSalle\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.csprojAssemblyReference.cache
+C:\Users\AFCM_MSI\Desktop\ReservationSalle\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.csproj.CoreCompileInputs.cache
+C:\Users\AFCM_MSI\Desktop\ReservationSalle\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.AssemblyInfoInputs.cache
+C:\Users\AFCM_MSI\Desktop\ReservationSalle\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.AssemblyInfo.cs
+C:\Users\AFCM_MSI\Desktop\ReservationSalle\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.dll
+C:\Users\AFCM_MSI\Desktop\ReservationSalle\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.pdb
+C:\Users\AFCM_MSI\Desktop\ReservationSalle\GestionnaireBDD\bin\Debug\netstandard2.0\GestionnaireBDD.deps.json
+C:\Users\AFCM_MSI\Desktop\ReservationSalle\GestionnaireBDD\bin\Debug\netstandard2.0\GestionnaireBDD.dll
+C:\Users\AFCM_MSI\Desktop\ReservationSalle\GestionnaireBDD\bin\Debug\netstandard2.0\GestionnaireBDD.pdb
+C:\Users\AFCM_MSI\Desktop\ReservationSalle\GestionnaireBDD\bin\Debug\netstandard2.0\ClassesMetier.dll
+C:\Users\AFCM_MSI\Desktop\ReservationSalle\GestionnaireBDD\bin\Debug\netstandard2.0\Windows.Foundation.UniversalApiContract.winmd
+C:\Users\AFCM_MSI\Desktop\ReservationSalle\GestionnaireBDD\bin\Debug\netstandard2.0\ClassesMetier.pdb
+C:\Users\AFCM_MSI\Desktop\ReservationSalle\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.csproj.CopyComplete

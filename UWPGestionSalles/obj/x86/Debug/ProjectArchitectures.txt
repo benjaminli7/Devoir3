@@ -1,0 +1,1 @@
+C:\Users\AFCM_MSI\Desktop\ReservationSalle\UWPGestionSalles\UWPGestionSalles.csproj;x86
